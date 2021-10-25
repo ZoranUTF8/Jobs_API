@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../03-task-manager"
+		},
+		{
+			"path": "../../../JWT_basics"
+		},
+		{
+			"path": "../../../4-Store-API"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
